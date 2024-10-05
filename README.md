@@ -7,3 +7,6 @@ Update CI workflow.
 [![LICENSE](https://img.shields.io/github/license/40739022/Devops-2.svg?style=flat-square)](https://github.com/40739022/Devops-2/blob/master/LICENSE)
 
 [![Releases](https://img.shields.io/github/release/40739022/Devops-2/all.svg?style=flat-square)](https://github.com/40739022/Devops-2/releases)
+
+# DevOps
+![GitHub Workflow Status (branch)](https://img.shields.io/github/workflow/status/40739022/Devops-2/<action name taken from main.yml>/<branch>?style=flat-square)
