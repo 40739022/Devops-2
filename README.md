@@ -8,4 +8,4 @@ Update CI workflow.
 
 [![Releases](https://img.shields.io/github/release/40739022/Devops-2/all.svg?style=flat-square)](https://github.com/40739022/Devops-2/releases)
 
-![GitHub Workflow Status (branch)](https://img.shields.io/github/workflow/status/40739022/Devops-2/<action name taken from main.yml>/<branch>?style=flat-square)
+![Hello world action (develop)](https://img.shields.io/github/workflow/status/40739022/Devops-2/<action name taken from main.yml>/<branch>?style=flat-square)
